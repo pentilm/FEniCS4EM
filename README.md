@@ -1,6 +1,3 @@
-Alright, with those details, I will modify the README.md file accordingly:
-
-```markdown
 # FEniCS for Electromagnetic Field Simulation
 
 This repository contains partial codes used in my computational electromagnetics papers. All codes utilize the FEniCS library, and simulations are performed via finite element methods, particularly using Nedelec elements.
@@ -34,6 +31,3 @@ If you use these codes in your research, please cite the following papers:
 
 2. Fang, Z., Li, J. & Wang, X., 2020. Optimal control for electromagnetic cloaking metamaterial parameters design. Computers & Mathematics with Applications, 79(4), pp.1165-1176.
 
-```
-
-Please note that you need to add the GPL License text to a file named LICENSE in your repository.
